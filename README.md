@@ -1,6 +1,6 @@
-MSc WINF - Modul "Key Technologies" (KETE) (HS22)
+MSc WINF - Modul "Key Technologies" (KETE) (HS23)
 =================================================   
-> ###### Last update: 8/8/22 dbe - updated version for HS22  
+> ###### Last update: 8/8/23 dbe - updated version for HS23  
 
 ## This the Public GitHub Repository for KETE HS22 Students 
 

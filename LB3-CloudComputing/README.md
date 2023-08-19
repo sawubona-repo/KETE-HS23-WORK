@@ -1,14 +1,14 @@
-# LB2 - Cloud Computing README
-> ###### Last update: 6/10/21 dbe
+# LB3 - Cloud Computing README
+> ###### Last update: 8/08/23 dbe - new LB structure
 </br>
 
-## Tasks AFTER the LB2 Cloud Computing session  
+## Tasks AFTER the LB3 Cloud Computing session  
 
 1. Setup a personal **(free) AWS Account**
   Gehen Sie zur [Amazon Web Services (AWS) Educate Website](https://aws.amazon.com/de/education/awseducate/?nc1=h_ls) und registrieren Sie dort ihr persönliches kostenloses AWS   Konto
   </br>  
 
-> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services - konkret mit **AWS Lightsail** vgl. [DOC What is AWS Lightsail](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/17d6bd8729929c24e36ed1919a1ec17d6e634d0f/LB2-CloudComputing/DOC_AWS-Lightsail.md)- durchgeführt  
+> Die meisten Cloud Examples und Demonstrationen im Modul KETE werden mit AWS Services - konkret mit **AWS Lightsail** vgl. [DOC What is AWS Lightsail](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/17d6bd8729929c24e36ed1919a1ec17d6e634d0f/LB2-CloudComputing/DOC_AWS-Lightsail.md)- durchgeführt  
    
 Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-lightsail-developer-guide/tree/master/doc_source) findet sich eine grosse Dokumentation and Anleitungen für die vielfältige Nutzung von AWS Lightsail (IaaS) Services.  
 </br> 
@@ -33,7 +33,7 @@ Unter [Github AWS Lightsail Developer Guide](https://github.com/awsdocs/amazon-l
 </br>
 
 ## Cloud Computing Examples
-* See [HOWTO_Setup an AWS Lightsail IaaS Instance](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/19e2ef9e29935f0ebadc1c82edb84e20e89efb90/LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
-* see [HOWTO: Create a NodeJS server instance on AWS Lightsail](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/60cac20cda529aeaaefa1f9d32c87749cb23ab77/LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-NodeJS-Instance.md) for setting up your Node.js instance and running on Amazon Lightsail:
+* See [HOWTO_Setup an AWS Lightsail IaaS Instance](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/19e2ef9e29935f0ebadc1c82edb84e20e89efb90/LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
+* see [HOWTO: Create a NodeJS server instance on AWS Lightsail](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/60cac20cda529aeaaefa1f9d32c87749cb23ab77/LB2-CloudComputing/HOWTO_Setup-AWS-Lightsail-NodeJS-Instance.md) for setting up your Node.js instance and running on Amazon Lightsail:
 </br>
 

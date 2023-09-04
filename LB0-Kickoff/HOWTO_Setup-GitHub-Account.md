@@ -32,8 +32,8 @@ Otherwise, you can scroll down the page and skip that step to continue the regis
 > Finally, you need to check the inbox of the email that you provided to **verify your email address** with GitHub.  
 </br>
 
-## Fork the KETE-HS22-WORK Repository
-> Inorder to upload your exercises, your code snippets or your coding project to **KETE-HS22-WORK** repository, you need to **fork** it first. 
+## Fork the KETE-HS23-WORK Repository
+> Inorder to upload your exercises, your code snippets or your coding project to **KETE-HS23-WORK** repository, you need to **fork** it first. 
 </br>
 Check HOWTO fork a repo [here](https://www.youtube.com/watch?v=HbSjyU2vf6Y).  
 PS: If you want to work remotely, don't clone/download the repo. 

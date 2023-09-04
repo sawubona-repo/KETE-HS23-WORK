@@ -21,6 +21,8 @@
 3. Setup a first Jupyter/Python Notebook 
 
 > [HOWTO_Setup-JupyterNotebook](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/master/LB0-Kickoff/HOWTO_Setup-JupyterNotebook.md)  
+![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/d3fd10aa-9a63-4576-8bc1-5d9b80ce0314)
+
 </br>  
 
 </br>

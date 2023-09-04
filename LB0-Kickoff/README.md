@@ -1,8 +1,8 @@
 # LB0 - Kickoff README
-###### Last update: 8/8/22 dbe
+###### Last update: 4/9/23 dbe
 </br>
 
-## Initial tasks for the module kickoff at 27/9/2022
+## Initial tasks for the module kickoff at 26/9/2023
 </br>
 
 1. Setup a personal GitHub Account 
@@ -19,9 +19,5 @@
 
 > [HOWTO_Setup_CodeSandbox_Account](https://github.com/sawubona-gmbh/KETE-HS22-WORK/blob/master/LB0-Kickoff/HOWTO_Setup_CodeSandbox_Account.md)  
 </br>  
-
-4. Upload code to KETE-HS22-WORK Repo 
-
-> [HOWTO_Upload-Sandbox-to-KETE-Repo](https://github.com/sawubona-gmbh/KETE-HS22-WORK/blob/master/LB0-Kickoff/HOWTO_Upload-Sandbox-to-KETE-Repo.md)  
 
 </br>

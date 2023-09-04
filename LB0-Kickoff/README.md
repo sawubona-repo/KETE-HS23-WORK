@@ -8,6 +8,8 @@
 1. Setup a personal GitHub Account 
 
 > [HOWTO_Setup A GitHub Account](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/master/LB0-Kickoff/HOWTO_Setup-GitHub-Account.md)  
+![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/46ce4058-6983-4934-a880-9b0b44f8582f)
+
 </br>  
 
 2. Setup a personal Replit Account 

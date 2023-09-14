@@ -10,24 +10,23 @@
 
 Before you can start using the Repl.it programming environment in the cloud, you need to create a personal account.  
 </br>
-- **Step 1: Sign In**
+- **Sign In**
 
 To get started, you will first need to go to the [Replit homepage](https://replit.com/). In the top right hand corner, click on [Sign Up](https://replit.com/signup).
 ![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/0023298d-b3b2-4b81-96dd-ebe0d47ba469)
 
 </br>
 
-- **Step 2: Create a Repl**
+## Create your first Repl
 
-In the second step, you need to create a '**Sandbox**'. Check HOWTO [create a Sandbox from given templates](https://codesandbox.io/docs/templates#using-templates). 
-> Use *p5.js template* for a Javascript coding example 
+You may then create your **first Repl**, your *first read-eval-print-loop* programming environment by clicking on the top left hand corner **+ Create Repl**.  
+Then you can choose from a list of templates **your preferred programming language** environment (e.g. *P5JS* for an easy to use Javascript library)   
+![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/ed0b4de8-a12d-4652-b28f-027d6d455e6a)
+
 </br>
 
-- **Step 3: Test and execute a Javascript example code**
-
-Try to change the color of the fill function from **fill(234, 31, 81)** to **fill(20, 31, 81)**. Save your changes. 
-The color of the square background will change to dark blue. *You may need to refresh the browser window to see the changes.*
-</br>
+As a result, your selected coding environment will be setup as a single virtual machine, where you can handle programm files, edit and run programm code. An example of the coding environment for a P5JS template is given below
+![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/4cb60186-77b1-46bc-b0ce-7551ece6c27a)
 
 </br>
 </br>

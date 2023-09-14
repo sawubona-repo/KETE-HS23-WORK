@@ -12,7 +12,9 @@ Before you can start using the Repl.it programming environment in the cloud, you
 </br>
 - **Step 1: Sign In**
 
-To sign in at sandbox, visit [CodeSanbox.io](https://codesandbox.io/signin) and Sign In with your (previously registered) GitHub Account on their website
+To get started, you will first need to go to the [Replit homepage](https://replit.com/). In the top right hand corner, click on [Sign Up](https://replit.com/signup).
+![image](https://github.com/sawubona-repo/KETE-HS23-WORK/assets/52699611/0023298d-b3b2-4b81-96dd-ebe0d47ba469)
+
 </br>
 
 - **Step 2: Create a Repl**

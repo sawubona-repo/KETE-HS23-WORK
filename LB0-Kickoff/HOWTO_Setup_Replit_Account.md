@@ -1,6 +1,11 @@
 # **HOWTO Setup a Repl.it Account**
 ###### Last update: 4/9/23 dbe - adapted to repl.it
 
+## What is REPL.IT?  
+**Replit** is an online coding platform (aka *integrated development environment* (**IDE**)) that allows you to write, run, and collaborate on code from anywhere with an internet connection. With Replit, you don't need to worry about setting up your own development environment or installing software. Everything is done in the browser, so you can focus on coding.  This online coding platform supports over 50 languages and many programming courses use it, including [freeCodeCamp](https://www.freecodecamp.org/learn).
+
+</br>
+
 ## Create your personal REPL.IT Account
 
 Before you can start using the Repl.it programming environment in the cloud, you need to create a personal account.  

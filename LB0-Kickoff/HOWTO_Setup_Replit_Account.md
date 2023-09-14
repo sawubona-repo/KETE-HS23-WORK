@@ -31,19 +31,11 @@ As a result, your selected coding environment will be setup as a single virtual 
 </br>
 </br>
 
-### Repl.It Documentation
+### Repl.It Docu and Links
 ---  
-
-https://www.freecodecamp.org/news/how-to-use-replit/#how-to-create-a-free-replit-account
-CodeSandbox is an online editor that helps you create web applications, from prototype to deployment. It allows developers to simply go to a URL in their browser to start building apps. This not only makes it easier to get started, it also makes it easier to share with your remote team or with your client to review the code or can be used for further development on these sandboxes by just sharing the URL. CodeSandbox is one such tool which supports npm dependencies and multiple files/directories. It allows us to show real-time feedback without any server communication because it runs everything on the browser.
-</br>
-
-### What you can do with Repl.It?
-Now you got to know what the CodeSandbox is all about and now you get to know what you can do with it. As we all know that how daunting task will be to build JavaScript apps so that CodeSandbox team specifically focused on web application development to make the experience as smooth as possible. Just open your browser and start coding with React, Vue, Angular and Preact apps. With the click of button you can easily create your dream project it could be using React or Vue or Angular as it automates things like transpiling, bundling and dependency management for you. One of the best thing about this editor is that as and when you start typing code you can see a live preview so you know exactly what’s on with your app.
-</br>
-
-Another few resources which may help you out really in using CodeSandbox.
-1. Ives van Hoorne - The Journey of Codesandbox https://youtu.be/5lR29NsJKW8
-2. Here is the GitHub repo for this project https://github.com/CompuIves/codesandbox-client
-3. Here is documentation for CodeSandbox https://codesandbox.io/docs/
+Another few resources which may help you out really in using replit.
++ [Replit Docs - Getting Started](https://docs.replit.com/)
++ [Free Code Camp - How to use Replit](https://www.freecodecamp.org/news/how-to-use-replit/)
++ [Google Cloud Case Study - Replit](https://cloud.google.com/customers/repl-it)   
++ [Replit Raises $97.4M at $1.16B Valuation, April 25, 2023](https://www.prnewswire.com/news-releases/cloud-developer-platform-replit-raises-97-4m-at-1-16b-valuation-to-further-its-lead-in-ai-development-and-continue-its-exponential-growth-301807085.html?tc=eml_cleartime)
 

@@ -87,5 +87,21 @@ elif (slideNr == 23):
   plt.legend(loc='upper left')
   plt.show()
 
+elif (slideNr == 24):
+  # Sample Plot - Slide#24
+  # evenly sampled values t at 200ms time intervals
+  t = np.arange(0., 5., 0.2)
+  # red dashes, blue squares and green triangles
+  lines = plt.plot(t, t, 'r-', linewidth=2.0, label='Thing 1')
+  lines = plt.plot(t, t**2, 'b*', linewidth=2.0, label='Thing 2')
+  lines = plt.plot(t, t**3, 'go', linewidth=2.0, label='Thing 3')
+
+  plt.title('An example graph - with legends')
+  plt.ylabel('measured values')
+  plt.xlabel('time (s)')
+  plt.legend(loc='upper left')
+  plt.savefig('test.png') 
+  plt.show()
+
 else:
   print("Slide number not found")

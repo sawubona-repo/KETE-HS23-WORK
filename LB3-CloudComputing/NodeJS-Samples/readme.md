@@ -13,9 +13,11 @@ This allows Node.js to handle thousands of concurrent connections with a single 
 
 
 ### Example Node.js Scripts   
-+ demo-chat-app3.js  
-Multi-user chat room application  
-Start with http://<ip-address>:3000
++ **demo-chat-app3.js**  
+Multi-user chat room application. Start your node.js platform with 
+>> node demo-chat-app3.js
+Use the chat service via browser and the url
+>> http://[nodeserver-ip-address]:3000
 
 
 

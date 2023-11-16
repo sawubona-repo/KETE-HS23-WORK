@@ -1,3 +1,3 @@
 ## LB4 - Distributed Computing README
 
-> ##### last update 16.11.23 - dbe  node.js sample scripts added
+> ##### last update xx.yy.23 - dbe  xxx

@@ -19,15 +19,15 @@ Multi-user chat room application. Use the chat service via browser and the url
 
 + **demo-encode1.js**  
 Symmetric string encoding/decoding service, using an internal cipher. Use the encoding service via browser and the url  
->> http://<server-ip-address>:7777?encode=xxx, where xxx is the string to encode  
+``` http://<server-ip-address>:7777?encode=xxx ```, where xxx is the string to encode  
 
 + **demo-hashingMD5.js**  
 MD5 hashing service. Use the encoding service via browser and the url  
->> http://<server-ip-address>:7777?md5=xxx,  where xxx is the string to hash 
+``` http://<server-ip-address>:7777?md5=xxx ```,  where xxx is the string to hash 
 
 + **demo-server1.js**  
 Hello World example web (http/html) server. Use the encoding service via browser and the url  
->> http://<server-ip-address>:8080
+``` http://<server-ip-address>:8080 ```
 
 
 ### Links:

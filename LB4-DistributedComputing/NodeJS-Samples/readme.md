@@ -10,3 +10,7 @@ A Node.js app runs in a single process, without creating a new thread for every 
 When Node.js performs an I/O operation, like reading from the network, accessing a database or the filesystem, instead of blocking the thread and wasting CPU cycles waiting, Node.js will resume the operations when the response comes back.
 
 This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+---  
+Source: Set [Github](https://github.com/nodejs) for the official open source code and documentation repository
+

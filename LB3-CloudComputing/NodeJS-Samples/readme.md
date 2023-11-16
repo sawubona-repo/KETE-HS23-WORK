@@ -15,7 +15,7 @@ This allows Node.js to handle thousands of concurrent connections with a single 
 ### Example Node.js Scripts   
 + **demo-chat-app3.js**  
 Multi-user chat room application. Use the chat service via browser and the url   
->> http://<nodeserver-ip-address>:3000
+%% http://<nodeserver-ip-address>:3000
 
 + **demo-encode1.js**  
 Symmetric string encoding/decoding service, using an internal cipher. Use the encoding service via browser and the url  

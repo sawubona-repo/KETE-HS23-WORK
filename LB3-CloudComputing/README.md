@@ -4,8 +4,9 @@
 
 
 ## Cloud Computing Examples
-* See [HOWTO_Setup an AWS Lightsail IaaS Instance](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/main/LB3-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
-* see [HOWTO: Create a NodeJS server instance on AWS Lightsail](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/main/LB3-CloudComputing/HOWTO_Setup-AWS-Lightsail-NodeJS-Instance.md) for setting up your Node.js instance and running on Amazon Lightsail:
+* see [HOWTO_Setup an AWS Lightsail IaaS Instance](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/main/LB3-CloudComputing/HOWTO_Setup-AWS-Lightsail-Instance.md) for setting up an IaaS instance on AWS Lightsail in a few simple steps 
+* see [HOWTO: Create a NodeJS server instance on AWS Lightsail](https://github.com/sawubona-repo/KETE-HS23-WORK/blob/main/LB3-CloudComputing/HOWTO_Setup-AWS-Lightsail-NodeJS-Instance.md) for setting up your Node.js instance and running on Amazon Lightsail
+* see []() for some tiny NodeJS demo applications 
 </br>
 
 
